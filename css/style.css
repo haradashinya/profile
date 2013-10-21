@@ -1,5 +1,7 @@
 body {
     color: #333;
+    font-family:Helvetica;
+
 }
 
 li {
@@ -16,6 +18,10 @@ h1 img {
 
     line-height: 1;
 
+
+}
+.img-face {
+    margin: 15px 0 15px 0;
 
 }
 footer {
