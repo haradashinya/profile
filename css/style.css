@@ -5,3 +5,11 @@ body {
 li {
     list-style: none;
 }
+h1 {
+    padding: 20px 0 0 0px;
+    font-size: 20px;
+}
+h1 img {
+    vertical-align: middle;
+    line-height: 1.0;
+}
