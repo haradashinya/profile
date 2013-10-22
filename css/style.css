@@ -34,3 +34,15 @@ footer {
 footer a {
     text-align: right;
 }
+.q-and-a {
+    color: #222;
+    border: solid 1px black;
+    margin-bottom: 15px;
+    padding: 20px 10px 0 10px;
+
+}
+.important {
+    color: #e74c3c;
+}
+
+
