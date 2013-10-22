@@ -4,6 +4,10 @@ body {
 
 }
 
+.title {
+    color: #222;
+}
+
 li {
     list-style: none;
 }
